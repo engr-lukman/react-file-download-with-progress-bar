@@ -1,5 +1,7 @@
 # React file download with progress bar.
 
+![image info](./_docs/cover-photo.png)
+
 Clone the repository and run `npm install` command in the terminal.
 
 ## `npm start`
